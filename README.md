@@ -13,5 +13,6 @@ The ETL process involves extracting data using Python and spotipy library, then 
 4. Now after getting the transformed data, it is loaded into Snowflake for further analysis. 
 5. Then used the Snowflake ODBC driver to import the data from Snowflake database to Power BI and make a dashboard on top of it for generating insights.
 
+Dashboard Link:https://project.novypro.com/jxD4Dj
 **Architecure Diagram**:
 ![architecture](https://github.com/user-attachments/assets/cdaf3c8b-bdde-495a-b6ce-caddffff75de)
